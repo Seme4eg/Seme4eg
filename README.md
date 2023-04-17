@@ -1,3 +1,6 @@
-<img src="https://github.com/Seme4eg/Seme4eg/blob/main/gepj.jpeg" align="right" height="196px" />
+I never was great in presenting myself, but i guess whoever comes across here might be interested in what i did/have done/can do, so here you are)
 
-[![Seme4eg's github stats](https://github-readme-stats.vercel.app/api?username=Seme4eg&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=city_lights)](https://github.com/Seme4eg)
+![](https://raw.githubusercontent.com/seme4eg/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seme4eg/gh-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/seme4eg/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seme4eg/gh-stats/master/generated/languages.svg#gh-light-mode-only)
