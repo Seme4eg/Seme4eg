@@ -5,6 +5,8 @@ I never was great in presenting myself, but i guess whoever comes across here mi
 ![](https://raw.githubusercontent.com/seme4eg/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/seme4eg/gh-stats/master/generated/languages.svg#gh-light-mode-only)
 
+Feel free to explore my public repos as they provide a more eloquent way of telling you about my hobbies.
+
 <details>
   <summary><i>le footer</i></summary>
   
